@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mbbl
+- 👀 I’m interested in learning to code! 🤓
+- 🌱 I’m currently learning to code HTML, CSS and JavaScript with SheCodes 👩‍💻
+- 💞️ I’m looking to collaborate on open-source projects 😊
