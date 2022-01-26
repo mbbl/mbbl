@@ -2,5 +2,5 @@
 
 -   👋 Hi, I’m @mbbl
 -   👀 I’m interested in learning to code! 🤓
--   🌱 I’m learned to code HTML, CSS and JavaScript with SheCodes and Code with Mosh 👩‍💻
+-   🌱 I learned to code HTML, CSS and JavaScript with SheCodes and Code with Mosh 👩‍💻
 -   💞️ I’m looking to collaborate on open-source projects 😊
